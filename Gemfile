@@ -81,3 +81,7 @@ end
 
 gem "rails_performance", "~> 1.2"
 gem 'will_paginate', '~> 4.0'
+
+gem "letter_opener_web", "~> 3.0"
+
+gem "sidekiq", "~> 7.2"
